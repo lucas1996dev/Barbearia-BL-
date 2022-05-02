@@ -1,0 +1,48 @@
+/* Cascade styles sheets*/
+/* 
+block - Ele sempre vai ocupar a linha - um abaixo do outro
+inline - náo permite a alteração interna e externa do conteudo - um do lado do outro
+inline block - propriedades inline e block
+*/
+
+#banner {
+    width: 100%;
+}
+.cabeçalho {
+     padding-left: 20px;
+}
+
+.principal {
+    background: rgb(197, 196, 195);
+    padding: 30px;
+}
+.titulo-centralizado{
+    background: rgb(202, 202, 201);
+    text-align: center;
+}
+ p {
+    text-align: center;
+ }
+#missao {
+    font-size: 20px;
+}
+em strong {
+    color: red;
+}
+.itens {
+    font-style: italic;
+}
+.beneficios {
+    background: #ffff;
+    padding: 20px;
+}
+
+ ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+ }
+.imagem-beneficios {
+    width: 50% ;
+}
