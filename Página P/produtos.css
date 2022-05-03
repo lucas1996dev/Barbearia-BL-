@@ -85,3 +85,15 @@ border-radius: 45px;
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer {
+text-align: center;
+background: url("/Imagens/bg.jpg");
+padding: 40px;
+}
+footer p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 14px;
+    margin: 20px 0px 0px;
+}
